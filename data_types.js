@@ -1,4 +1,4 @@
-// primitive data type
+// Primitive data type : 
 // 7 types:String,Number,Boolean,Null,undefined,Symbol,BigInt,
 // refence type (non-primitive)
 // Array,Objects,functions,
